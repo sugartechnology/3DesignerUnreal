@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SevenZipForUnreal-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Intermediate\Build\Win64\x64\CustomMaterialEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SevenZipForUnreal\Module.SevenZipForUnreal.cpp.obj"
+"C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SevenZipForUnreal\Default.rc2.res"
+/OUT:"C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\SevenZipForUnreal\UnrealEditor-SevenZipForUnreal-Win64-DebugGame.lib"

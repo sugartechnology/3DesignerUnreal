@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SevenZipForUnreal.cpp.obj": [
+			"SevenZipForUnreal.init.gen.cpp.obj",
+			"SevenZipFunctionLibrary.gen.cpp.obj",
+			"SevenZipForUnreal.cpp.obj",
+			"SevenZipFunctionLibrary.cpp.obj"
+		]
+	}
+}
