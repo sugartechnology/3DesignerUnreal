@@ -1,7 +1,7 @@
-C:\Users\PC\Documents\3DesignerUnreal\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\SevenZipForUnreal\Module.SevenZipForUnreal.cpp
+"C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\SevenZipForUnreal\Module.SevenZipForUnreal.cpp"
 /I .
-/I C:\Users\PC\Documents\3DesignerUnreal\Plugins\Utility\Zip7ForUnreal\Source\SevenZipForUnreal\Private
-/I C:\Users\PC\Documents\3DesignerUnreal\Plugins\Utility\Zip7ForUnreal\ThirdParty\7zip\Include
+/I "C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Source\SevenZipForUnreal\Private"
+/I "C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\ThirdParty\7zip\Include"
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime\CoreUObject\Public
 /I Runtime
@@ -274,24 +274,24 @@ C:\Users\PC\Documents\3DesignerUnreal\Plugins\Utility\Zip7ForUnreal\Intermediate
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I C:\Users\PC\Documents\3DesignerUnreal\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\UnrealEditor\Inc\SevenZipForUnreal\UHT
-/I C:\Users\PC\Documents\3DesignerUnreal\Plugins\Utility\Zip7ForUnreal\Source
-/I C:\Users\PC\Documents\3DesignerUnreal\Plugins\Utility\Zip7ForUnreal\Source\SevenZipForUnreal\Public
+/I "C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\UnrealEditor\Inc\SevenZipForUnreal\UHT"
+/I "C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Source"
+/I "C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Source\SevenZipForUnreal\Public"
 /external:W0
 /external:I ThirdParty\mimalloc\include
 /external:I ThirdParty\LibTiff\Source\Win64
 /external:I ThirdParty\LibTiff\Source
-/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.38.33130\INCLUDE"
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\INCLUDE"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
-/FI"C:\Users\PC\Documents\3DesignerUnreal\Intermediate\Build\Win64\x64\CustomMaterialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/FI"C:\Users\PC\Documents\3DesignerUnreal\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\SevenZipForUnreal\Definitions.SevenZipForUnreal.h"
-/Yu"C:\Users\PC\Documents\3DesignerUnreal\Intermediate\Build\Win64\x64\CustomMaterialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
-/Fp"C:\Users\PC\Documents\3DesignerUnreal\Intermediate\Build\Win64\x64\CustomMaterialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
-/Fo"C:\Users\PC\Documents\3DesignerUnreal\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\SevenZipForUnreal\Module.SevenZipForUnreal.cpp.obj"
-/sourceDependencies C:\Users\PC\Documents\3DesignerUnreal\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\SevenZipForUnreal\Module.SevenZipForUnreal.cpp.dep.json
+/FI"C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Intermediate\Build\Win64\x64\CustomMaterialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/FI"C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\SevenZipForUnreal\Definitions.SevenZipForUnreal.h"
+/Yu"C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Intermediate\Build\Win64\x64\CustomMaterialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h"
+/Fp"C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Intermediate\Build\Win64\x64\CustomMaterialEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.pch"
+/Fo"C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\SevenZipForUnreal\Module.SevenZipForUnreal.cpp.obj"
+/sourceDependencies "C:\Users\Erdem\Documents\Unreal Projects\CustomMaterial\Plugins\Utility\Zip7ForUnreal\Intermediate\Build\Win64\x64\UnrealEditor\Development\SevenZipForUnreal\Module.SevenZipForUnreal.cpp.dep.json"
 /Zc:inline
 /nologo
 /Oi
